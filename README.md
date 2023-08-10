@@ -1,12 +1,3 @@
-![11](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/50ae47e9-66f4-48e3-bf10-2a40e4d0fb73)
-![10](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/032af6dd-557c-4a7f-a14c-5917060d393e)
-![9](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/74fd782d-e2cf-42d1-b1be-551f14ebdb8e)
-![8](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/8118a30c-c24a-425b-ad02-805a51983eeb)
-![7](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/cb7ff277-a6be-4473-bae0-943f8d4144de)
-![6](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/67e1937e-2336-4ee0-9cb1-82b680fc5893)
-![5](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/55291a1c-0889-4487-a6b0-8163837025a9)
-![4](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/ec15c763-6c8e-442a-a3db-401fb8fa74ef)
-![3](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/9ab99168-bd48-4c5f-a9e8-0bf9f78b4f18)
 # LibraryApp
 LibraryApp uygulaması kütüphane sistemlerinde kullanılan bir kitap kontrol uygulamasıdır.
 Kitapların takibi ve ödünç verilmesi konularında veritabanıyla çalışarak kullanıcıya yardımcı olur.
