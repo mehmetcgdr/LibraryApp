@@ -47,7 +47,7 @@
 - İlk olarak, projeyi yerel bilgisayarınıza kopyalamak için GitHub'dan klonlayın.
 
 - Öncelikle veritabanını oluşturmak için data katmanına konumlanıp terminale şu kodlar yazılır;
- -   dotnet ef migrations add NewMigration --startup-project ../LibraryApp.UI
+   -  dotnet ef migrations add NewMigration --startup-project ../LibraryApp.UI
 - bu işlem tamamlanınca;
    - dotnet ef database update --startup-project ../LibraryApp.UI
 - Bu işlemler tamamlanınca veritabanı artık kullanıma hazırdır.
