@@ -1,0 +1,57 @@
+﻿@using LibraryApp.UI.Models;
+@model BookUpdateViewModel
+<link href="~/css/edit.css" rel="stylesheet" />
+<h1 class="display-6 mt-4 text-center text-white"><span class="fw-bold">@Model.Name</span> adlı kitap güncelleniyor..</h1>
+<hr />
+
+<form 
+      asp-controller="Home"
+      asp-action="Edit"
+      method="post"
+      enctype="multipart/form-data">
+@*    <div class="row">
+        <div class="col-9">
+            <div class="row">
+                <div class="col">
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="Name"></label>
+                        <input class="form-control" asp-for="Name">
+                        <span class="text-danger" asp-validation-for="Name"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="Author"></label>
+                        <input class="form-control" asp-for="Author">
+                        <span class="text-danger" asp-validation-for="Author"></span>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Kaydet</button>
+            <a  asp-controller="Home" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Sil</a>
+        </div>
+        <div class="col-3"> 
+        </div>
+    </div>
+*@
+
+    <div class="edit ">
+        <form method="post">
+            <input type="text"  placeholder="@Model.Name" asp-for="Name"  />
+            <span class="text-danger" asp-validation-for="Name"></span>
+
+            <input type="text"  placeholder="@Model.Author" asp-for="Author"  />
+            <span class="text-danger" asp-validation-for="Author"></span>
+
+            <span class="d-flex justify-content-between">
+                <button asp-controller="Home" asp-action="Delete" asp-route-id="@Model.Id" type="submit" class="btn btn-primary btn-inline btn-large">Sil</button>
+                <button type="submit" class="btn btn-primary btn-inline btn-large">Kaydet</button>
+           </span>
+        </form>
+    </div>
+
+
+</form>
+
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+}
+

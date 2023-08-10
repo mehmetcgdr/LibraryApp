@@ -1,0 +1,52 @@
+﻿@using LibraryApp.Entity.Entities;
+@model Book
+<link href="~/css/site.css" rel="stylesheet" />
+<div class="row pt-3">
+    <div class="col-4 col-md-4 d-flex justify-content-center ">
+        <div class="card" style="width: 20rem;">
+            <img src="~/images/books/@Model.Image.Url" class="card-img-top" style="max-height:350px;">
+            <div class="card-body text-center">
+                <h5 class="card-title">@Model.Name</h5>
+                <h5 class="card-title">@Model.Author</h5>
+               
+            </div>
+        </div>
+    </div>
+    <div class="col-8 col-md-8 ps-5 ">
+        <form asp-controller="Home" asp-action="LoanTheBook" method="post">
+    @if (Model.FirstName == null && Model.LastName == null)
+            {
+
+
+
+
+                <h6 class="display-6 text-danger fw-normal">Kitabı Alanın Bilgileri</h6>
+                <input type="hidden" name="@Model.Id"/>
+                <div class="row text-white">
+                    <div class="col-md-6 col-12">
+                        <label class="form-label" asp-for="FirstName">Alıcı Adı</label>
+                        <input class="form-control"  asp-for="FirstName" />
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <label class="form-label" asp-for="LastName">Alıcı Soyadı</label>
+                        <input class="form-control" asp-for="LastName" />
+                    </div>
+                </div>
+                <div class="col-md-6 pt-3 text-white">
+                    <label class="form-label" asp-for="ReturnDate">Geri Vereceği Tarih</label>
+                    <input type="date" class="form-control" asp-for="ReturnDate"/>
+                </div>
+                <button type="submit" class="btn mt-3 ">Ödünç Ver</button>
+            }
+@*            else      ileriki aşamalarda eklemeler olma ihtimaline karşı teslim al butonu konulmuştur.
+            {
+                <button type="submit" class="">Teslim Al</button>
+            }*@
+
+        </form>
+                </div>
+              
+
+        
+</div>
+

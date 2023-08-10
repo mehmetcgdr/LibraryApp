@@ -1,0 +1,105 @@
+﻿@using LibraryApp.UI.Models;
+@model List<BookViewModel>
+
+<link href="~/css/site.css" rel="stylesheet" />
+
+    <div class="row pt-4">
+    <div class="col-md-3 col-sm-3 col-12 pe-0 ps-5  ">
+
+	<ul class="form">
+            <li>
+                <a class="profile" asp-controller="Home"
+                   asp-action="Index"
+                   asp-route-categoryurl=""><i class="fa-solid fa-book"></i>Tüm Kitaplar<em>@ViewBag.AllCount</em></a>
+            </li>
+            @if (User.Identity.IsAuthenticated)
+                    {
+                <li class="selected">
+                    <a class="messages" asp-controller="Home"
+                       asp-action="Index"
+                       asp-route-categoryurl="Loaned"><i class="fa-solid fa-receipt"></i>Ödünç Verilenler <span class="count">@ViewBag.LoanedsCount</span></a>
+                </li>
+                    }
+	</ul>
+    </div>
+    
+    <div class="col-md-9 col-sm-9 col-12">
+        <div class="row g-3">
+            @if (@Model.Count() > 0)
+            {
+                @foreach (var book in Model)
+                {
+                    <div class="card m-3  p-0  " style="width:18rem; ">
+                        <img src="~/images/books/@book.Image.Url" class="card-img-top m-0 p-0 " style="max-height:300px;">
+                        <div class="card-body text-center" style="max-height: 100px;">
+                            <h5 class="card-title pt-0 mt-0">@book.Name</h5>
+                            <p class="card-text">@book.Author</p>
+                        </div>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <ul class="list-group list-group-flush" >
+                                <li class="list-group-item" style="max-height:170px; height:170px;">
+                                    @if (book.IsOutside == true)
+                                    {
+                                        <div class="d-flex justify-content-between">
+                                            <span class="fw-bold">Dışarıda</span>
+
+                                            <a asp-controller="Home" asp-action="TakeBackTheBook" asp-route-id="@book.Id" class="btn btn-sm btn-success fw-bolder">Teslim Al</a>
+                                        </div>
+
+                                    }
+                                    else
+                                    {
+                                        <div class="d-flex justify-content-between">
+                                            <span class="fw-bold">Kütüphanede</span>
+
+                                            <a asp-controller="Home" asp-action="LoanTheBook" method="post" asp-route-id="@book.Id" class="btn btn-sm btn-danger fw-bolder">Ödünç Ver</a>
+                                        </div>
+                                        <div class="d-flex align-items-center pt-5 justify-content-center">
+                                           <p > Kitap şu an kütüphanededir.</p>
+                                        </div>
+
+                                    }
+
+
+                                    @if (book.IsOutside == true)
+                                    {
+                                        <p class="card-text mt-3"><span class="fw-bolder">Alan Kişi:</span> @book.FirstName  @book.LastName</p>
+                                        <p class="card-text"><span class="fw-bolder">Aldığı Tarih:</span> @book.LoanedDate?.ToShortDateString()</p>
+                                        <p class="card-text"><span class="fw-bolder">Geri Teslim Tarihi:</span> @book.ReturnDate?.ToShortDateString()</p>
+                                    }
+
+                                </li>
+                            </ul>
+                            <div class="card-footer d-flex justify-content-center margin-block-end" style="max-height:60px;">
+                                <a class="btn btn-warning fw-bolder" asp-controller="Home" asp-action="Edit" asp-route-id="@book.Id">
+                                    Düzenle/Sil
+                                </a>
+
+                            </div>
+                        }
+                    </div>
+                }
+            }
+            else
+            {<div class="d-flex justify-content-center fs-2" style="height:50vh; align-items:center;">
+                <p>Tüm kitaplar kütüphanededir.!</p>
+                </div>
+            }
+        </div>
+       
+    </div>
+    </div>
+
+
+<script>
+    $(document).ready(function () {
+        $('ul.form li a').click(
+            function (e) {
+                e.preventDefault(); // prevent the default action
+                e.stopPropagation; // stop the click from bubbling
+                $(this).closest('ul').find('.selected').removeClass('selected');
+                $(this).parent().addClass('selected');
+            });
+    });
+ </script>

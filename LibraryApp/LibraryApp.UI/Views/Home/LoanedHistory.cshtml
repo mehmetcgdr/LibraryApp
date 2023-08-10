@@ -1,0 +1,33 @@
+﻿@using LibraryApp.UI.Models;
+@model  List<LoanedHistoryViewModel>
+
+
+
+    <div class="container pt-5">
+    <table class="table text-white">
+        <thead>
+            <tr>
+                <th scope="col">Kitap Id</th>
+                <th scope="col">Kitap Adı</th>
+                <th scope="col">Ödünç Alan Adı</th>
+                <th scope="col">Ödünç Alan Soyadı</th>
+                <th scope="col">Ödünç Aldığı Tarih</th>
+                <th scope="col">Teslim Ettiği Tarih</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var loaneds in Model)
+            {
+                <tr>
+                    <th scope="row">@loaneds.BookId</th>
+                    <th scope="row">@loaneds.BookName</th>
+                    <td>@loaneds.FirstName</td>
+                    <td>@loaneds.LastName</td>
+                    <td>@loaneds.LoanedDate?.ToShortDateString()</td>
+                    <td>@loaneds.ReturnDate?.ToShortDateString()</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+    </div>
