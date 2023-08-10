@@ -57,3 +57,21 @@
 - Açılan uygulama penceresinde kitaplar listelenir fakat login olunmadığı sürece detaylar ve diğer işlevler aktif olmayacaktır. Header kısmındaki Giriş yap butonu ile yukarıda verilen User bilgileri ile giriş yapıldığında diğer işlevler aktif olacaktır.
 
 ## Demo
+![1](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/821decc2-c205-4a44-b66a-74c6cefea6dd)
+![2](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/07f57580-c694-4699-9a97-17646b244efa)
+![3](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/cdef861d-51d2-4d2b-a0fb-cb7426a634c2)
+![4](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/a080c91d-9331-472f-9f44-520f0d0f3187)
+![5](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/ef3c2756-aa4b-483d-9c7a-a17b115a8c90)
+![6](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/7d55a739-998b-425f-ad1d-9682ea3f4d3f)
+![7](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/82431787-fd20-4e4a-a284-da83f0d18757)
+![8](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/47e5a390-4eb3-4683-a690-100dd3944595)
+![9](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/38d37dd5-6c5b-442a-b538-20529e3a8e7b)
+![10](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/f1ddf807-ad57-4822-8784-dcb607c94bad)
+![11](https://github.com/mehmetcgdr/LibraryApp/assets/43685911/fa7e05dd-6c15-41bc-9ce4-79f7ccde1224)
+
+
+
+
+
+
+
