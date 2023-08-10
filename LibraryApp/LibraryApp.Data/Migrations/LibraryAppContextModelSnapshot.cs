@@ -189,7 +189,7 @@ namespace LibraryApp.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "8069bec3-a498-4430-8afa-1261f8ce3aaa",
+                            Id = "2eddad65-5e22-4aa2-86a0-b93e78ccbf3a",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         });
@@ -274,22 +274,22 @@ namespace LibraryApp.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "3f671b04-6715-47d9-898a-d99b0cb9d5b9",
+                            Id = "640a0760-d810-4275-afdb-bd33681118f4",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "4e3a889c-4724-4752-a937-1a139860712c",
-                            Email = "deniz@gmail.com",
+                            ConcurrencyStamp = "bbc16ecf-25ef-4697-b236-c98b60c91bf9",
+                            Email = "admin@gmail.com",
                             EmailConfirmed = false,
-                            FirstName = "Deniz",
+                            FirstName = "Admin",
                             Gender = "Erkek",
-                            LastName = "Kartal",
+                            LastName = "Kitapçı",
                             LockoutEnabled = false,
-                            NormalizedEmail = "DENIZ@GMAIL.COM",
-                            NormalizedUserName = "DENIZ",
-                            PasswordHash = "AQAAAAIAAYagAAAAEFGektUqu3hGEU4dFyVdTPZMvI0i9rb7J5SwZDmJBkCZdt6YBRcTLzhrIl2u6fhmVA==",
+                            NormalizedEmail = "ADMIN@GMAIL.COM",
+                            NormalizedUserName = "ADMIN",
+                            PasswordHash = "AQAAAAIAAYagAAAAEOM8Kf3hrFKrcpt2dWe8bLtJmCzw4OFeDzhPJYTwX2EKdd8jRAPkJlUp0vI6bJwJ0w==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "6517872c-40d7-4edb-94c2-5405744899fa",
+                            SecurityStamp = "736c1413-22fd-4094-b51f-f4c66d05225e",
                             TwoFactorEnabled = false,
-                            UserName = "deniz"
+                            UserName = "admin"
                         });
                 });
 
@@ -514,8 +514,8 @@ namespace LibraryApp.Data.Migrations
                     b.HasData(
                         new
                         {
-                            UserId = "3f671b04-6715-47d9-898a-d99b0cb9d5b9",
-                            RoleId = "8069bec3-a498-4430-8afa-1261f8ce3aaa"
+                            UserId = "640a0760-d810-4275-afdb-bd33681118f4",
+                            RoleId = "2eddad65-5e22-4aa2-86a0-b93e78ccbf3a"
                         });
                 });
 

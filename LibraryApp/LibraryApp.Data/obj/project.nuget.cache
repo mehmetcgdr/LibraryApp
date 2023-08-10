@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t4RyJ7BAx3KN8zhrqesT/QmJF6EnnUa/FtTwCtzPcW+I4oCRKNU5IT2c5RO05iDCyZAujZJp2erxLYPlYhv3MQ==",
+  "dgSpecHash": "VKxKPM+g2EM+6upIa1zyjsQrqrhpOJxtFF6zqUwQP3UcI2jvrGwZuVQt4r3FDTZ9yC1n5kwiNGgVRwVOhvigPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj",
+  "projectFilePath": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90554\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\90554\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

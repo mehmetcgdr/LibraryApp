@@ -10,3 +10,15 @@ C:\Users\90554\Desktop\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\LibraryApp.
 C:\Users\90554\Desktop\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\refint\LibraryApp.Entity.dll
 C:\Users\90554\Desktop\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\LibraryApp.Entity.pdb
 C:\Users\90554\Desktop\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\ref\LibraryApp.Entity.dll
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\bin\Debug\net7.0\LibraryApp.Entity.deps.json
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\bin\Debug\net7.0\LibraryApp.Entity.dll
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\bin\Debug\net7.0\LibraryApp.Entity.pdb
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\LibraryApp.Entity.csproj.AssemblyReference.cache
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\LibraryApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\LibraryApp.Entity.AssemblyInfoInputs.cache
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\LibraryApp.Entity.AssemblyInfo.cs
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\LibraryApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\LibraryApp.Entity.dll
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\refint\LibraryApp.Entity.dll
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\LibraryApp.Entity.pdb
+C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.Entity\obj\Debug\net7.0\ref\LibraryApp.Entity.dll

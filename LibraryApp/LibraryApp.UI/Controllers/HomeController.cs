@@ -78,6 +78,7 @@ namespace LibraryApp.UI.Controllers
             book.IsOutside = true;
             _bookService.Update(book);
             }
+            _notyfService.Success("Kitap başarıyla ödünç verildi.");
             return RedirectToAction("Index", "Home");
         }
        //Kitabı teslim alma methodu
@@ -104,6 +105,7 @@ namespace LibraryApp.UI.Controllers
             book.ReturnDate = null;
             book.IsOutside = false;
             _bookService.Update(book);
+            _notyfService.Success("Kitap geri alma işlemi başarılı!");
             return RedirectToAction("Index", "Home");
 
         }

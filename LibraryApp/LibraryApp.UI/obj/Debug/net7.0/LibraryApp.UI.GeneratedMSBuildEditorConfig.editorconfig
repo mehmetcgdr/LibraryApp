@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryApp.UI
 build_property.RootNamespace = LibraryApp.UI
-build_property.ProjectDir = C:\Users\90554\Desktop\LibraryApp\LibraryApp.UI\
+build_property.ProjectDir = C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.UI\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\90554\Desktop\LibraryApp\LibraryApp.UI
+build_property.MSBuildProjectDirectory = C:\Users\90554\Documents\GitHub\LibraryApp\LibraryApp\LibraryApp.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/Account/Login.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/Home/Create.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/Home/Edit.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/Home/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/Home/Index.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/Home/LoanedHistory.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/Home/LoanedHistory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2FuZWRIaXN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/Home/LoanTheBook.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/Home/LoanTheBook.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2FuVGhlQm9vay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/_ViewImports.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/_ViewStart.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/90554/Desktop/LibraryApp/LibraryApp.UI/Views/Shared/_Layout.cshtml]
+[C:/Users/90554/Documents/GitHub/LibraryApp/LibraryApp/LibraryApp.UI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-of3kyc1xhi

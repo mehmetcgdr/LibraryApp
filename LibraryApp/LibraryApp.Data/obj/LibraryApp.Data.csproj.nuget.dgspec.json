@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj": {}
+    "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj": {
+    "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj",
         "projectName": "LibraryApp.Data",
-        "projectPath": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj",
+        "projectPath": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Data\\LibraryApp.Data.csproj",
         "packagesPath": "C:\\Users\\90554\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj": {
-                "projectPath": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj"
+              "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj": {
+    "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj",
         "projectName": "LibraryApp.Entity",
-        "projectPath": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj",
+        "projectPath": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Entity\\LibraryApp.Entity.csproj",
         "packagesPath": "C:\\Users\\90554\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.Entity\\obj\\",
+        "outputPath": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

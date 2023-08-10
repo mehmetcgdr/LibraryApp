@@ -1,331 +1,335 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LibraryApp.UI.bundle.scp.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LibraryApp.UI.bundle.scp.css",
       "PackagePath": "staticwebassets\\LibraryApp.UI.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\css\\edit.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\css\\edit.css",
       "PackagePath": "staticwebassets\\css\\edit.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\1.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\1.jpg",
       "PackagePath": "staticwebassets\\images\\books\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\10.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\10.jpg",
       "PackagePath": "staticwebassets\\images\\books\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\11.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\11.jpg",
       "PackagePath": "staticwebassets\\images\\books\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\12.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\12.jpg",
       "PackagePath": "staticwebassets\\images\\books\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\1dbe416b-002c-42aa-9dc8-ec9e87701af4.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\1dbe416b-002c-42aa-9dc8-ec9e87701af4.jpg",
       "PackagePath": "staticwebassets\\images\\books\\1dbe416b-002c-42aa-9dc8-ec9e87701af4.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\2.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\2.jpg",
       "PackagePath": "staticwebassets\\images\\books\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\222.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\222.jpg",
       "PackagePath": "staticwebassets\\images\\books\\222.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\257d20bc-5f45-4194-af60-16b4ef3a2be8.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\257d20bc-5f45-4194-af60-16b4ef3a2be8.jpg",
       "PackagePath": "staticwebassets\\images\\books\\257d20bc-5f45-4194-af60-16b4ef3a2be8.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\2dd1f9e8-22df-45df-affc-08799555c99b.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\2dd1f9e8-22df-45df-affc-08799555c99b.jpg",
       "PackagePath": "staticwebassets\\images\\books\\2dd1f9e8-22df-45df-affc-08799555c99b.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\3.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\3.jpg",
       "PackagePath": "staticwebassets\\images\\books\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\3c19f1c5-6cb8-4559-b199-5e676da01ace.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\3c19f1c5-6cb8-4559-b199-5e676da01ace.jpg",
       "PackagePath": "staticwebassets\\images\\books\\3c19f1c5-6cb8-4559-b199-5e676da01ace.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\4.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\4.jpg",
       "PackagePath": "staticwebassets\\images\\books\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\5.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\41254340-18d4-4c8e-850e-77bcf3988109.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\41254340-18d4-4c8e-850e-77bcf3988109.jpg"
+    },
+    {
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\5.jpg",
       "PackagePath": "staticwebassets\\images\\books\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\6.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\6.jpg",
       "PackagePath": "staticwebassets\\images\\books\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\7.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\7.jpg",
       "PackagePath": "staticwebassets\\images\\books\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\8.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\8.jpg",
       "PackagePath": "staticwebassets\\images\\books\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\8c9d23dd-5403-4e1b-a3d9-b0c5554342e7.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\8c9d23dd-5403-4e1b-a3d9-b0c5554342e7.jpg",
       "PackagePath": "staticwebassets\\images\\books\\8c9d23dd-5403-4e1b-a3d9-b0c5554342e7.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\9.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\9.jpg",
       "PackagePath": "staticwebassets\\images\\books\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\91d7aef3-61ff-48e3-85d0-36f2e1ff571a.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\91d7aef3-61ff-48e3-85d0-36f2e1ff571a.jpg",
       "PackagePath": "staticwebassets\\images\\books\\91d7aef3-61ff-48e3-85d0-36f2e1ff571a.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\ca15b1e0-1ac7-4e1f-92f9-31dc2494cfac.jpg",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\images\\books\\ca15b1e0-1ac7-4e1f-92f9-31dc2494cfac.jpg",
       "PackagePath": "staticwebassets\\images\\books\\ca15b1e0-1ac7-4e1f-92f9-31dc2494cfac.jpg"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\90554\\Desktop\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\90554\\Documents\\GitHub\\LibraryApp\\LibraryApp\\LibraryApp.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
